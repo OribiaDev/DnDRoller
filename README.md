@@ -32,5 +32,4 @@ DnDRoller is a simple Discord bot that allows you to virtually roll any size DnD
 * [@Oribia_Dev](https://twitter.com/Oribia_Dev)
 
 ## License
-
-GNU General Public License v3.0
+MIT License
